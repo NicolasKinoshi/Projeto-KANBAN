@@ -1,6 +1,5 @@
 # Projeto To-Do List 📝
 
-![To-Do List](/Arquivos/Layout.jpg)
 
 ## Sumário
 1. [Recursos Principais](#recursos-principais)
